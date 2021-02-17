@@ -4,7 +4,7 @@
 
 ## Pra que serve?
 
-Serve pra rastrear criptomodas.
+Rastrear histórico de criptomodas.
 
 ## Rodando o projeto
 
